@@ -21,7 +21,5 @@ Follow these steps:
 -Push to the branch (git push origin feature/feature-update).
 -Open a Pull Request.
 
-Reach out to me through:
-Email: deejgiea@gmail.com
-LinkedIn: https://www.linkedin.com/in/deej-toto-2b02361a1/
-GitHub: https://github.com/Deej-toto
+Reach out to me: deejgiea@gmail.com
+
