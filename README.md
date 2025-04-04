@@ -7,6 +7,7 @@ Minor projects:https://github.com/Deej-toto?tab=repositories
 
 
 Technologies Used 💻
+
 Frontend: HTML5, CSS3.
 
 Contributing 🤝
