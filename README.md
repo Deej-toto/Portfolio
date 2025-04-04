@@ -11,14 +11,17 @@ Technologies Used 💻
 Frontend: HTML5, CSS3
 
 Contributing 🤝
-Contributions are welcome! Follow these steps:
+Contributions are welcome! 
+
+Follow these steps:
+
 -Fork the repository.
 -Create a feature branch (git checkout -b feature/feature-update).
 -Commit changes (git commit -m 'Feature Added').
 -Push to the branch (git push origin feature/feature-update).
 -Open a Pull Request.
 
-Reach out via:
+Reach out to me through:
 Email: deejgiea@gmail.com
 LinkedIn: https://www.linkedin.com/in/deej-toto-2b02361a1/
 GitHub: https://github.com/Deej-toto
